@@ -13,7 +13,7 @@ require_once "Clases/Conexion/Conexion.php";
 
 	//print_r($conexion->obtener_Datos($query));
 
-	echo "HOla mundo";
+	echo "Actualziaciones hechas parte 2";
 
 ?>
 
