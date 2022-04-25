@@ -5,6 +5,7 @@
 
 // PRUEBA GIIIIIIIIIIIIIIIT
 	// AGONIAAAAAAAAAAA
+	//pondeeeee
 class pacientes extends Conexion
 {
 		private $table= "pacientes";
