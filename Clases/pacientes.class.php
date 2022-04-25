@@ -4,6 +4,7 @@
 	require_once "respuestas.class.php";	
 
 // PRUEBA GIIIIIIIIIIIIIIIT
+	// AGONIAAAAAAAAAAA
 class pacientes extends Conexion
 {
 		private $table= "pacientes";
