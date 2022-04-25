@@ -3,7 +3,7 @@
 	require_once "Conexion/Conexion.php";
 	require_once "respuestas.class.php";	
 
-
+// PRUEBA GIIIIIIIIIIIIIIIT
 class pacientes extends Conexion
 {
 		private $table= "pacientes";

@@ -2,7 +2,7 @@
 	
 	require_once "Clases/respuestas.class.php";
 	require_once "Clases/pacientes.class.php";	
-
+//Clases de los pacientes
 $_respuestas = new respuestas;
 $_pacientes = new pacientes;
 
